@@ -6,7 +6,7 @@ define( [
 ], function( jQuery, nonce, rquery ) {
 
 "use strict";
-
+//1231231313131
 var oldCallbacks = [],
 	rjsonp = /(=)\?(?=&|$)|\?\?/;
 
